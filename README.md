@@ -8,7 +8,7 @@
   
   
 👨‍💻 Full-Stack Developer  
-👨‍🎓 Studying Software Engineering at Hack Reactor 
+👨‍🎓 Studying Software Engineering at Hack Reactor  
 🚧 **Current Project:** [Ratings & Reviews Module](https://github.com/kwrnFec/ratings_and_reviews_module)
 
 
