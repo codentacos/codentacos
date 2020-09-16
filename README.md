@@ -9,8 +9,16 @@
   
   
 👨‍💻 Full-Stack Developer  
-👨‍🎓 Studying Software Engineering at Hack Reactor  
-🚧 **Current Project:** [Ratings & Reviews Module](https://github.com/kwrnFec/ratings_and_reviews_module)
+  
+Technologies I work with:  
+Front-End: 	JavaScript (ES5 / ES6), React, jQuery, CSS, HTML, Bootstrap  
+Back-End:	Node.js, Express, MySQL, MongoDB, Mongoose, PostgreSQL  
+Testing:	Jest, Enzyme, Mocha, Chai, Artillery  
+Tools:		Docker, Amazon Web Services(AWS), NPM, Webpack, Babel, Trello, Git, Heroku, Netlify,
+New Relic, CircleCI  
+Techniques:	Pair Programming, Test Driven Development(TDD), RESTful API’s, Agile Development  
+  
+🚧 **Current Project:** [Seeder](https://github.com/codentacos/seeder)
 
 
 <!--
