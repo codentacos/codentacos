@@ -7,16 +7,21 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1b81c1&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/codeNtacos)
 [![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white)](mailto:nelsonz2013@hotmail.com)
   
+👨‍💻 Full-Stack Developer 
   
-👨‍💻 Full-Stack Developer  
-  
-Technologies I work with:  
-Front-End: 	JavaScript (ES5 / ES6), React, jQuery, CSS, HTML, Bootstrap  
+<details>
+  <summary>Technologies I work with:</summary>
+Front-End: 	JavaScript (ES5 / ES6), React, jQuery, CSS, HTML, Bootstrap 
+  <br />
 Back-End:	Node.js, Express, MySQL, MongoDB, Mongoose, PostgreSQL  
+  <br />
 Testing:	Jest, Enzyme, Mocha, Chai, Artillery  
+  <br />
 Tools:		Docker, Amazon Web Services(AWS), NPM, Webpack, Babel, Trello, Git, Heroku, Netlify,
 New Relic, CircleCI  
+  <br />
 Techniques:	Pair Programming, Test Driven Development(TDD), RESTful API’s, Agile Development  
+</details>  
   
 🚧 **Current Project:** [Seeder](https://github.com/codentacos/seeder)
 
