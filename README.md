@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=codentacos&show_icons=true&theme=onedark">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=codentacos&show_icons=true&theme=tokyonight">
 
 ### Hi there, I'm Zachary 👋
 
