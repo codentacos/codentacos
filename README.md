@@ -23,7 +23,7 @@ New Relic, CircleCI
 Techniques:	Pair Programming, Test Driven Development(TDD), RESTful API’s, Agile Development  
 </details>  
   
-🚧 **Current Project:** [Seeder](https://github.com/codentacos/seeder)
+🚧 **Current Project:** N/A
 
 
 <!--
