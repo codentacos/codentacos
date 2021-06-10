@@ -9,7 +9,7 @@
   
 👨‍💻 Developer of Many Things
   
-🚧 **Current Project:** Citics
+🚧 **Current Project:** Some Kinda Secret API
 
 
 <!--
