@@ -9,7 +9,7 @@
   
 👨‍💻 Developer of Many Things
   
-🚧 **Current Project:** Some Kinda Secret API
+🚧 **Current Project:** :man_shrugging:
 
 
 <!--
