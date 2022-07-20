@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Zachary 👋
 
-[![Blog](https://img.shields.io/static/v1?label=Blog&message=%20&color=blueviolet&logo=Jekyll&style=flat&logoColor=white)](https://www.instagram.com/zach_codes/)
+[![Blog](https://img.shields.io/static/v1?label=Blog&message=%20&color=blueviolet&logo=Jekyll&style=flat&logoColor=white)]([https://www.instagram.com/zach_codes/](https://www.zachcodes.xyz/))
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat&logoColor=white)](https://www.instagram.com/zach_codes/)
 [![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=9cf&logo=Facebook&style=flat&logoColor=white)](https://www.facebook.com/zachcodes/)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1b81c1&logo=Twitter&style=flat&logoColor=white)](https://twitter.com/codeNtacos)
