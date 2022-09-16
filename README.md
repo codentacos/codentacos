@@ -4,7 +4,6 @@
 
 [![Blog](https://img.shields.io/static/v1?label=Blog&message=%20&color=blueviolet&logo=Jekyll&style=flat&logoColor=white)](https://www.zachcodes.xyz/)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat&logoColor=white)](https://www.instagram.com/zach_codes/)
-[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=9cf&logo=Facebook&style=flat&logoColor=white)](https://www.facebook.com/zachcodes/)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1b81c1&logo=Twitter&style=flat&logoColor=white)](https://twitter.com/codeNtacos)
 [![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=green&logo=gmail&style=flat&logoColor=white)](mailto:nelsonz2021@gmail.com)
   
