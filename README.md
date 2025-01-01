@@ -1,5 +1,6 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=codentacos&show_icons=true&theme=dracula&count_private=true"> -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codentacos&theme=calm)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codentacos&theme=calm) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codentacos&theme=vue)
 
 ### Hi there, I'm Zachary 👋
 
